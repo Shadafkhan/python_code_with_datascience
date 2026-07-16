@@ -79,9 +79,9 @@ percentage = (total_marks / 600) * 100
 
 # ---------------- Report ----------------
 
-print("\n========================================")
+print(f"\n{40*"="}")
 print("       COLLEGE ERP MINI SYSTEM")
-print("========================================")
+print(f"\n{40*"="}")
 
 print("\n----------- SECTION 1 -----------")
 print("Student Profile")
@@ -110,6 +110,6 @@ print("Semester    :", semester)
 print("Final Fee   :", final_fee)
 print("Percentage  :", percentage, "%")
 
-print("\n========================================")
+print(f"\n{40*"="}")
 print("        THANK YOU")
-print("========================================")
+print(f"\n{40*"="}")
